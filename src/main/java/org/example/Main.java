@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Hello, World!");
         System.out.println("Hallo");
-        System.out.println("Ik heet Ali");
+        System.out.println("değiştirdim");
         System.out.println("Ik kom uit Turkje");
         System.out.println("deneme");
 
