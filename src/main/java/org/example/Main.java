@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Ik heet Ali");
         System.out.println("Ik kom uit Turkje");
         System.out.println("deneme");
+        String name ="Ali2";
+        System.out.println(name);
 
 
 
